@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DEV-Christopher
-- 🌱 I’m currently learning JavaScript via Codesmith
+- 👋 Hi, I’m Chris
+- 🌱 I’m currently developing Turblu
 - 📫 You can reach me at hello@estepchristopher.com
 
 <!---
