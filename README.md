@@ -1,3 +1,3 @@
 - Hi, I’m Chris
-- I’m currently developing Turblu
+- I’m currently developing [Turblu](https://www.turblu.com)
 - You can reach me at hello@estepchristopher.com
